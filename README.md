@@ -22,7 +22,11 @@ scotch tape is actually really bad i prefer martha stewarts tape brand i didnt e
 
 halp
 
+<<<<<<< HEAD
 i am goon i am free
 
 buns ketchup pickle cheese 
 put that patty
+=======
+lol
+>>>>>>> main
