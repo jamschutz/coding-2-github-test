@@ -1,15 +1,4 @@
 # coding-2-github-test
 
-hi this is joey
 
-
-
-
-
-
-
-
-
-
-
-i love the hurdy gurdy
+i only like the blue jolly ranchers
