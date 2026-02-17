@@ -1,9 +1,7 @@
 # coding-2-github-test
 
-hi this is joey
-HAIIIII HAIIIII HELLOOOOO HAI HAI HELLO HAI :3 
+fixed!!
 
-im such a fat fucking chud
 
 hello
 meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow
@@ -22,11 +20,10 @@ scotch tape is actually really bad i prefer martha stewarts tape brand i didnt e
 
 halp
 
-<<<<<<< HEAD
 i am goon i am free
 
 buns ketchup pickle cheese 
 put that patty
-=======
-lol
->>>>>>> main
+
+i'm free!!!!!!!!!!!!!!!!!!!!!!!
+
